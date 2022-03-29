@@ -3,5 +3,3 @@ var isPalindrome = function (x) {
 };
 
 console.log(isPalindrome(121))
-
-// CARRY BHOSDK DALLE DE BACHEE
