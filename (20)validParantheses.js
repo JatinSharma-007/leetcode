@@ -12,7 +12,6 @@ var isValid = function (s) {
         } else {
             queue.push(first);
         }
-
     }
     return !queue.length;
 };
