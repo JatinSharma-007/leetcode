@@ -10,4 +10,4 @@ const checkSum = (arr, target) => {
         }
     }
 }
-console.log(checkSum(arr, target));
+console.log(checkSum(arr, target)); 
