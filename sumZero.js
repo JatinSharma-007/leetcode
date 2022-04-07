@@ -26,4 +26,4 @@ const sumZero = (arr) => {
         }
     }
 }
-console.log(sumZero(arr))
+console.log(sumZero(arr))  
