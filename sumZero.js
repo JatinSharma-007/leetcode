@@ -9,7 +9,7 @@ const checkSum = (arr) => {
         }
     }
 }   
-  
+    
 // o(n)
 const sumZero = (arr) => {
     let left = 0;
