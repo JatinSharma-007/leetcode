@@ -1,4 +1,4 @@
-// o(n^2) quadratic time complexity       
+// o(n^2) quadratic time complexity        
 let arr = [-5, -4, -3, -2, 0, 2, 4, 6, 8];
 const checkSum = (arr) => {  
     for (let i = 0; i < arr.length; i++) {
