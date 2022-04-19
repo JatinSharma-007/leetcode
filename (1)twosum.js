@@ -11,4 +11,3 @@ var twoSum = function (nums, target) {
 }  
 console.log(twoSum(nums, target));
 // O(n^2)
-// O(n^2)
