@@ -6,7 +6,7 @@ var twoSum = function (nums, target) {
             if (nums[i] + nums[j] === target) {
                 return [i, j];
             }
-        }
+        }  
     }
 }  
 console.log(twoSum(nums, target));
